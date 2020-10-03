@@ -1,0 +1,1 @@
+This is Jimmy McKegger's first git project!
